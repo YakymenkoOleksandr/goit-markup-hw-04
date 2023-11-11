@@ -113,7 +113,7 @@ svg {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-/*
+
 .navone{
     font-weight: 500;
         color: #2e2f42;
@@ -137,7 +137,7 @@ svg {
     background-color: #404bbf;
     border-radius: 2px;
 }
-*/
+
 
 .nav:hover {
     color: #404bbf;
@@ -156,6 +156,8 @@ svg {
     letter-spacing: 0.02em;
     color: #434455;
     display: block;
+
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .email:hover {
@@ -194,13 +196,6 @@ svg {
     gap: 40px;
 }
 
-.emailli {
-    transition : color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.telli {
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
- }
 
 /*Секція 1*/
 
