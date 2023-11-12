@@ -150,10 +150,6 @@ svg {
      width: 100%;
  }
 
- .navone::after {
-    height: 4px;
- }
-
 .nav:focus {
     color: #404bbf;
 }
