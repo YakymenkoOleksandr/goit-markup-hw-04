@@ -135,15 +135,15 @@ svg {
 
  .navone::after {
     content: '';
+    height: 4px;
     position: absolute;
     left: 0;
     bottom: -1px;
-    height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
     border: 4px solid #404bbf;
     width: 100%;
-    height: 4px;
+    
  }
 
 .nav:hover {
